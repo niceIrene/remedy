@@ -1,0 +1,5 @@
+pandas
+divexplorer
+sympy
+numpy
+sklearn
